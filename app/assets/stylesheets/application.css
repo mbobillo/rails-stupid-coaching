@@ -13,3 +13,23 @@
  *= require_tree .
  *= require_self
  */
+
+ .yellow-box {
+  padding: 4px;
+  margin-bottom: 16px;
+  width: 600px;
+  text-align: left;
+  background-color:#F6FAB9
+ }
+
+ .container {
+  margin: 8px;
+  padding: 6px;
+ }
+
+ .btn-blue {
+  background-color:#115da0;
+  color: white;
+  border-radius: 4px;
+  padding: 4px;
+ }
